@@ -7,15 +7,14 @@ menu:
 
 ## Who am I
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Un poco sobre mi 🐺
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+"¡Todo el mundo puede ganar una batalla cuando la probabilidad está a su favor! Pero cuando las cosas se vuelven difíciles, cuando no parece que haya oportunidad... ¡ahí es cuando cuenta esa victoria!"
+- Spiderman
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
 
+**Mi nombre es Adrian Ibarra, tengo 24 años**. Estudie ingeniería en computación en la UNAM,
+me gusta aprender sobre diversos temas como programación, computo en la nube, inversiones,
+música y videojuegos.
+Actualmente, trabajo en una empresa dedicada a dar servicios y consultorías sobre e-commerce.
+En mi tiempo libre me gusta probar experiencias nuevas y leer o investigar sobre temas que desconozco.
