@@ -5,9 +5,8 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## Un poco sobre mi 🐺
 
-Un poco sobre mi 🐺
 
 "¡Todo el mundo puede ganar una batalla cuando la probabilidad está a su favor! Pero cuando las cosas se vuelven difíciles, cuando no parece que haya oportunidad... ¡ahí es cuando cuenta esa victoria!" <br>
  -Spiderman
